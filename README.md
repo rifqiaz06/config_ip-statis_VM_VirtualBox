@@ -28,9 +28,11 @@ Untuk mengatur IP statis pada mesin virtual (VM) di VirtualBox, Anda perlu melak
 
 <img width="658" height="427" alt="Screenshot 2025-07-22 213941" src="https://github.com/user-attachments/assets/6df3ad58-7de5-422f-87ef-a0e2306818e2" />
 
+<br>
 
 <img width="655" height="424" alt="Screenshot 2025-07-22 214733" src="https://github.com/user-attachments/assets/c43da110-ba5c-4a9d-a016-1ac7c0c5d0ee" />
 
+<br>
 
 <img width="400" height="298" alt="Screenshot 2025-07-22 215127" src="https://github.com/user-attachments/assets/abdb61eb-c112-4136-a5f2-65598ec63f47" />
 
